@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Ghazela technology spring project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: thameur.kheribi
+Implementation-Vendor-Id: com.ghazela
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ghazelaProject
+Created-By: Maven Integration for Eclipse
+
